@@ -1,0 +1,11 @@
+/.vs
+/back-end/ProductList/bin
+/back-end/ProductList/obj
+/back-end/ProductList.DI/bin
+/back-end/ProductList.DI/obj
+/back-end/ProductList.Domain/bin
+/back-end/ProductList.Domain/obj
+/back-end/ProductList.Infrastructure/bin
+/back-end/ProductList.Infrastructure/obj
+/back-end/ProductList.UnitTests/bin
+/back-end/ProductList.UnitTests/obj

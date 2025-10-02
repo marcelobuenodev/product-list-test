@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProductList.DI/ProductList.DI.csproj" />
+  <Project Path="ProductList.Domain/ProductList.Domain.csproj" />
+  <Project Path="ProductList.Infrastructure/ProductList.Infrastructure.csproj" />
+  <Project Path="ProductList.UnitTests/ProductList.UnitTests.csproj" />
+  <Project Path="ProductList/ProductList.WebApi.csproj" />
+</Solution>
